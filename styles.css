@@ -1,0 +1,22 @@
+ body {
+  background-image: url("Images/IMG_8697.jpg");
+  color: whitesmoke;
+  margin: 40px 50px 75px 50px;
+	}
+  
+.center-headings {
+     text-align: center;	
+       }
+	
+#cannon-video {
+   width: 400px; 
+   height: 250px;
+	}
+
+.pictures {
+    padding: 4px;
+	}	
+
+#fun-fact {
+    margin-left:2.5em;
+	}
